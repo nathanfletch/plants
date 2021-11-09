@@ -49,3 +49,11 @@ Describe: TESTS
 <p align="center">
   <small>Made with ❤️ in Portland, Oregon. </small>
 </p>
+
+Imitate the project. 
+
+Add functionality to create multiple plants. Remember that we can use closures to store state about different objects.
+
+Add functionality so different plants have different abilities. Use composition to add these abilities.
+
+Build out a fully functioning game where users can feed their plants. This could include a UI, special powerups, and any creative functionality you might want to add!
