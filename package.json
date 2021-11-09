@@ -1,5 +1,5 @@
 {
-  "name": "template_wp_eslint_jest",
+  "name": "plants",
   "version": "1.0.0",
   "description": "---",
   "main": "src/main.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Usarneme/template_wp_eslint_jest"
+    "url": "git+https://github.com/nathanfletch/plants"
   },
-  "author": "Usarneme",
+  "author": "Kevin and Nathan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Usarneme/template_wp_eslint_jest/issues"
+    "url": "https://github.com/nathanfletch/plants/issues"
   },
-  "homepage": "https://github.com/Usarneme/template_wp_eslint_jest#readme",
+  "homepage": "https://github.com/nathanfletch/plants#readme",
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@babel/plugin-transform-runtime": "^7.13.15",

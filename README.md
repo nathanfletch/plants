@@ -1,11 +1,11 @@
-# PROJECT NAME
-## By Usarneme/Tom
+# Plants
+## By Kevin and Nathan
 
 ---
 
-### Project Description
+### Description
 
-This project is a web application that DESCRIPTION
+This is an app to take care of plants.
 ---
 ### Tech Stack
 1. HTML5+CSS3
@@ -18,14 +18,10 @@ This project is a web application that DESCRIPTION
 8. Jest testing
 ---
 
-### Project Build Available At:
 
-[BUILD URL](BUILD URL)
-
----
 ### Installation Instructions
-1. Clone this repo: `git clone https://github.com/Usarneme/REPO URL`
-2. Enter new directory `cd REPO DIR`
+1. Clone this repo
+2. Navigate to the new directory
 3. Install dependencies with `npm install`
 4. To run it locally, use the npm dev command `npm run start:dev`
 5. Open your web browser and navigate to http://localhost:9001
@@ -46,9 +42,6 @@ Describe: TESTS
 ---
 ### License is GPLv3 and I make no claim to copyright.
 <br />
-
-> You can't steal what is freely given. Enjoy!
-
 <br />
 <br />
 <br />
