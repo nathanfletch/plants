@@ -10,15 +10,26 @@
   <body>
     <div class="container">
       <div class="grow-buttons">
+
+        <button class="btn-success" id="new">Get a new plant</button>
         <button class="btn-success" id="yucky">Add yucky soil</button>
         <button class="btn-success" id="green">Add green soil</button>
         <button class="btn-success" id="feed">Add blue soil</button>
-        <button class="btn-success" id="feed-2">Add blue soil to plant 2</button>
         <button class="btn-success" id="show-state">Current Stats</button>
+        <form action="submit" id="give-name-form">
+          <input type="text" id="name-input">
+          <input type="number" id="plant-number-input">
+          <button id="name-button">Add name</button>
+        </form>
+        <form action="submit" id="eat-form">
+          <input type="number" id="eat-number">
+          <button id="eat-button">Eat!</button>
+        </form>
       </div>
-      <h1>Your Plant's Values</h1>
-      <h3><div id="soil-value">0</div></h3>
-      <h3><div id="soil-value-2">0</div></h3>
+      <h1>All Plant's Values</h1>
+      <ul id="plant-list">
+
+      </ul>
     </div>
   </body>
 </html>
